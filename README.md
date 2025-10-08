@@ -3,11 +3,10 @@ The Da Yi Ma Project is a web-based platform designed to promote awareness and e
 It serves as a safe and informative space for women and young girls to learn, connect, and feel supported through all stages of womanhood.
 
 <br> Technologies Used </br>
-
-<br> - HTML5 </br>
-<br> - CSS3 </br>
-<br> - JavaScript </br>
-<br> - GitHub Pages </br>
+- HTML5 </br>
+- CSS3 </br>
+- JavaScript </br>
+- GitHub Pages </br>
 
 
 <br> index.html </br>
